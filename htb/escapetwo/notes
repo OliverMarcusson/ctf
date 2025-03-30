@@ -1,0 +1,18 @@
+# Shares
+
+Sharename       Type      Comment
+	---------       ----      -------
+	Accounting Department Disk      
+	ADMIN$          Disk      Remote Admin
+	C$              Disk      Default share
+	IPC$            IPC       Remote IPC
+	NETLOGON        Disk      Logon server share 
+	SYSVOL          Disk      Logon server share 
+	Users           Disk
+
+# Creds
+rose KxEPkKe6R8su 
+
+Read access to all shares except for AMDIN and C
+
+Found accounting xlsx and accounts.xlsx
